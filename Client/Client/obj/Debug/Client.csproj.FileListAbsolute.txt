@@ -1,0 +1,9 @@
+F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\Client\Client\bin\Debug\Client.exe.config
+F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\Client\Client\bin\Debug\Client.exe
+F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\Client\Client\bin\Debug\Client.pdb
+F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\Client\Client\obj\Debug\Client.exe
+F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\Client\Client\obj\Debug\Client.pdb
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\bin\Debug\Client.exe.config
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\obj\Debug\Client.exe
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\obj\Debug\Client.pdb
