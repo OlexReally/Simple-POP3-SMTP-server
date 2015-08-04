@@ -7,3 +7,6 @@ F:\Навчання\5 курс\2 семестр\Програмування Ко�
 F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\bin\Debug\Client.exe.config
 F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\obj\Debug\Client.exe
 F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\obj\Debug\Client.pdb
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\bin\Debug\Client.exe
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\bin\Debug\Client.pdb
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

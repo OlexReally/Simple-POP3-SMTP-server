@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Client program to work with SMRP/POP3 servers
+
+Author Kutaev O. V.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
