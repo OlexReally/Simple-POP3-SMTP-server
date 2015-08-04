@@ -5,3 +5,9 @@ F:\Навчання\5 курс\2 семестр\Програмування Ко�
 F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\SMTP\SMTP\obj\Debug\SMTP.pdb
 F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\SMTP\SMTP\bin\Debug\MySql.Data.dll
 F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\SMTP\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\SMTP\SMTP\bin\Debug\SMTP.exe.config
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\SMTP\SMTP\obj\Debug\SMTP.exe
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\SMTP\SMTP\obj\Debug\SMTP.pdb
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\SMTP\SMTP\bin\Debug\SMTP.exe
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\SMTP\SMTP\bin\Debug\SMTP.pdb
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\SMTP\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache

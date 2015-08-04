@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+SMTP server
+
+Author Kutaev O. V.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -73,9 +78,10 @@ namespace SMTP
             {
                 data = System.Text.Encoding.ASCII.GetString(bytes, 0, i);
 
+                //parse input data on words
                 split = data.Split(new Char[] { ' ' });
 
-                switch (split[0])
+                switch (split[0])//first word - command, second - argument
                 {
                     case "QUIT":
                         msg = System.Text.Encoding.ASCII.GetBytes(smtp.GenerateAnswerQuit());
@@ -113,7 +119,6 @@ namespace SMTP
                             {
                                 string CHECK_RIGHT_USER_NAME = "";
                                 string CHECK_RIGHT_EMAIL_ADRR = "";
-                                //smtp.Receiver = split[2];
                                 CHECK_RIGHT_EMAIL_ADRR = split[2];
                                 CHECK_RIGHT_USER_NAME = db.User(CHECK_RIGHT_EMAIL_ADRR);
                                 if (CHECK_RIGHT_USER_NAME != "Err" && CHECK_RIGHT_USER_NAME != "")
@@ -293,7 +298,7 @@ namespace SMTP
             return "Err";
         }
 
-        public void InsertSendMail(string user, string message)
+        public void InsertSendMail(string user, string message)//send message, write in DB emil message
         {
             string[] userMessage = user.Split(new Char[] { ' ' });
             for (int i = 0; i < userMessage.GetLength(0); i++)
@@ -315,6 +320,8 @@ namespace SMTP
                 }
             }
         }
+
+        //HACK
         private string HackMethod(string str)//хакова конвертація DATETIME
         {
             string[] split = str.Split(new Char[] { '.', ' ' });
