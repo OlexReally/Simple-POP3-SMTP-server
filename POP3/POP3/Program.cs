@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+POP3 server
+
+Author Kutaev O. V.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
