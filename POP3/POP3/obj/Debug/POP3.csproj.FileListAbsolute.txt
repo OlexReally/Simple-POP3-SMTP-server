@@ -5,3 +5,6 @@ F:\Навчання\5 курс\2 семестр\Програмування Ко�
 F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\POP3\POP3\obj\Debug\POP3.pdb
 F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\POP3\POP3\bin\Debug\MySql.Data.dll
 F:\Навчання\5 курс\2 семестр\Програмування Комп мереж Сало\Лаби ПКМ\Лаб 6\POP3\POP3\obj\Debug\POP3.csprojResolveAssemblyReference.cache
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\POP3\POP3\bin\Debug\POP3.exe.config
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\POP3\POP3\obj\Debug\POP3.exe
+F:\VS programs\GitHubRepository\Simple-POP3-SMTP-server\POP3\POP3\obj\Debug\POP3.pdb

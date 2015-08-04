@@ -351,7 +351,7 @@ namespace POP3
                 return -1;
         }
 
-        public string SelectRetr(string user, string s)//RETR
+        public string SelectRetr(string user, string s)//RETR command
         {
             string query = "SELECT text FROM email WHERE login = '"
                 + user + "' AND `delete` = 0";
@@ -381,7 +381,7 @@ namespace POP3
                 return "Err";
         }
 
-        public string UpdateDele(string user, string s)//DELE
+        public string UpdateDele(string user, string s)//DELE command
         {
             string query = "SELECT * FROM email WHERE login = '"
                 + user + "' AND `delete` = 0";
@@ -429,7 +429,7 @@ namespace POP3
                 return "Err";
         }
 
-        public void QuitDelete(string user)//DELETE before QUIT
+        public void QuitDelete(string user)//DELETE before QUIT, read manual for command
         {
             if (user == "")
                 return;
@@ -444,7 +444,7 @@ namespace POP3
                 this.CloseConnection();
             }
         }
-        public string UpdateRset(string user)//RSET
+        public string UpdateRset(string user)//RSET command
         {
             string query = "UPDATE email SET `delete` = 0 WHERE `delete` = 1 AND login = '"
                 + user + "';";
@@ -594,7 +594,7 @@ namespace POP3
                     i++;
                 }
                 this.CloseConnection();
-                if (i == 1)
+                if (i == 1)//if user's count > 1 - O_o
                 {
                     return true;
                 }
@@ -604,6 +604,7 @@ namespace POP3
             return false;
         }
 
+        //HACK
         private string HackMethod(string str)//хакова конвертація DATETIME
         {
             string[] split = str.Split(new Char[] { '.', ' ' });
