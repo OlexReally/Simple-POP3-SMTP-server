@@ -11,7 +11,7 @@ HOW TO LAUNCH
 
 4. Start client
 
-5. Choose protocol - SMTP or POP3
+5. Choose protocol in client - SMTP or POP3
 
 6. Check in DB list of users email and thier passwords
 
