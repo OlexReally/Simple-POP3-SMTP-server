@@ -1,5 +1,5 @@
 ﻿/*
-Client program to work with SMRP/POP3 servers
+Client program to work with SMTP/POP3 servers
 
 Author Kutaev O. V.
 */
